@@ -1,0 +1,14 @@
+Token1,Token2,Protocol,PoolID,Rating,ROI,StrategyRating
+SOL(SOL),SOL(SOL),jupiter,0,Error fetching data,Error,NaN
+JitoSOL(SOL),JitoSOL(SOL),marginfi,0,Error fetching data,Error,NaN
+JitoSOL(SOL),JitoSOL(SOL),kamino,0,Error fetching data,Error,NaN
+mSOL(SOL),mSOL(SOL),solend,0,Error fetching data,Error,NaN
+bSOL(SOL),bSOL(SOL),solend,0,Error fetching data,Error,NaN
+jupSOL(SOL),jupSOL(SOL),kamino,0,Error fetching data,Error,NaN
+JitoSOL(SOL),JitoSOL(SOL),solend,0,Error fetching data,Error,NaN
+bSOL(SOL),bSO(SOL),kamino,0,Error fetching data,Error,NaN
+bSOL(SOL),bSOL(SOL),marginfi,0,Error fetching data,Error,NaN
+mSOL(SOL),mSOL(SOL),marginfi,0,Error fetching data,Error,NaN
+mSOL(SOL),mSOL(SOL),kamino,0,Error fetching data,Error,NaN
+jupSOL(SOL),jupSOL(SOL),marginfi,0,Error fetching data,Error,NaN
+SOL(ARB),ETH(ARB),gmx,0,Error fetching data,Error,NaN

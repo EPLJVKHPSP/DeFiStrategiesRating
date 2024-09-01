@@ -1,0 +1,14 @@
+Strategy,Protocol,ROI,Allocation ($),Weight (%)
+JitoSOL (SOL),kamino,7.93,216.90,17.68
+SOL (SOL),jupiter,31.23,176.16,14.36
+jupSOL (SOL),kamino,9.06,153.57,12.52
+bSOL/bSO (SOL),kamino,6.99,144.07,11.74
+mSOL (SOL),kamino,7.35,98.96,8.07
+JitoSOL (SOL),marginfi,7.98,96.26,7.85
+mSOL (SOL),solend,7.26,54.58,4.45
+SOL/ETH (ARB),gmx,28.42,53.12,4.33
+bSOL (SOL),solend,7.38,44.64,3.64
+mSOL (SOL),marginfi,7.37,43.69,3.56
+JitoSOL (SOL),solend,7.9,39.60,3.23
+bSOL (SOL),marginfi,7.08,33.41,2.72
+jupSOL (SOL),marginfi,9.06,10.69,0.87
