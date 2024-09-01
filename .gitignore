@@ -1,0 +1,2 @@
+./myenv/lib/python3.12/site-packages/numpy/.dylibs/libscipy_openblas64_.dylib
+./myenv/lib/python3.12/site-packages/scipy/.dylibs/libopenblas.0.dylib
